@@ -1,0 +1,8 @@
+|ji
+SW[0] => LED~0.IN1
+SW[1] => LED~0.IN0
+SW[2] => LED~1.IN1
+SW[3] => LED~2.IN1
+LED <= LED~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
