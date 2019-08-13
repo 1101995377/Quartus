@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cdc93ed-9e8b-47f3-b4a6-e8dd22e56db2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/quartus/HA.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.sim.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.tan.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.tan.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/HA.vwf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.(1).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.(1).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.eco.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.eds_overflow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.pre_map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sgdiff.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sgdiff.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sim.cvwf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sim.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sim.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sim.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.syn_hier_info" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.tan.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/HA_global_asgn_op.abo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/prev_cmp_HA.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/db/wed.wsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/h_add.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/h_add.bsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartus/incremental_db/compiled_partitions/HA.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/prev_cmp_zcc.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/prev_cmp_zcc.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.(0).cnf.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.(0).cnf.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.asm.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.asm_labs.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cbx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.cmp0.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.db_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.eco.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.fit.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.hif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.lpc.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.lpc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.map.logdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.map.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.pre_map.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.pre_map.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.rtlv.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.rtlv_sg.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.rtlv_sg_swap.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.sgdiff.cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.sgdiff.hdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.sld_design_entry.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.sld_design_entry_dsc.sci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.syn_hier_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.tan.qmsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.tis_db_list.ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc.tmw_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/db/zcc_global_asgn_op.abo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/incremental_db/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/incremental_db/compiled_partitions/zcc.root_partition.map.kpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.asm.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.fit.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.fit.smsg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.fit.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.flow.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.map.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.map.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.pin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.pof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.qpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.qsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.qws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.tan.rpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.tan.summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.vhd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcc/zcc.vhd.bak" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lxx/lxx.vhd">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roll/roll.vhd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gundong/gundong.vhd">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DigitalCircuit-Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigitalCircuit-Experiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cdc93ed-9e8b-47f3-b4a6-e8dd22e56db2" name="Default Changelist" comment="" />
+      <created>1565657782824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565657782824</updated>
+      <workItem from="1565657788586" duration="1010000" />
+      <workItem from="1565658841829" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1023000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zcc/zcc.vhd" />
+    <entry file="file://$PROJECT_DIR$/shuma/shuma.fit.rpt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuma/shuma.vhd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HA/HA.vwf" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lxx/lxx.vhd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roll/roll.vhd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gundong/gundong.vhd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
